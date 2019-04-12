@@ -1,0 +1,134 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CMenu.h
+vector
+-
+CMenuItem.h
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuItem.h
+CMenuCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuCommand.h
+CMenuItem.h
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuItem.h
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuItem.h
+string
+-
+
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+string
+-
+vector
+-
+
+C:/Users/hp/CLionProjects/ZMPO 2/ChangeCell.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/ChangeName.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CreateCopy.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CreateCustom.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/CreateDefault.h
+vector
+C:/Users/hp/CLionProjects/ZMPO 2/vector
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/DeleteAll.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/DeleteOne.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/ShowInfo.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+iostream
+C:/Users/hp/CLionProjects/ZMPO 2/iostream
+CCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CCommand.h
+
+C:/Users/hp/CLionProjects/ZMPO 2/main.cpp
+iostream
+-
+algorithm
+-
+CMenu.h
+C:/Users/hp/CLionProjects/ZMPO 2/CMenu.h
+CMenuCommand.h
+C:/Users/hp/CLionProjects/ZMPO 2/CMenuCommand.h
+CTable.h
+C:/Users/hp/CLionProjects/ZMPO 2/CTable.h
+string
+C:/Users/hp/CLionProjects/ZMPO 2/string
+CreateDefault.h
+C:/Users/hp/CLionProjects/ZMPO 2/CreateDefault.h
+CreateCustom.h
+C:/Users/hp/CLionProjects/ZMPO 2/CreateCustom.h
+CreateCopy.h
+C:/Users/hp/CLionProjects/ZMPO 2/CreateCopy.h
+DeleteOne.h
+C:/Users/hp/CLionProjects/ZMPO 2/DeleteOne.h
+DeleteAll.h
+C:/Users/hp/CLionProjects/ZMPO 2/DeleteAll.h
+ChangeName.h
+C:/Users/hp/CLionProjects/ZMPO 2/ChangeName.h
+ChangeCell.h
+C:/Users/hp/CLionProjects/ZMPO 2/ChangeCell.h
+ShowInfo.h
+C:/Users/hp/CLionProjects/ZMPO 2/ShowInfo.h
+stack
+C:/Users/hp/CLionProjects/ZMPO 2/stack
+
